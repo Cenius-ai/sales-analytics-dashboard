@@ -1,0 +1,17 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+*.Rproj
+
+# Shiny
+shiny_bookmarks/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
