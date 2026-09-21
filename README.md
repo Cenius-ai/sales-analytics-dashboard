@@ -68,7 +68,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-The repository contains 25 files of R/Shiny source, organised under `www/`. `install.sh` provisions dependencies and seeds demo data so the app starts with something real to explore. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+The repository contains 12 files of R/Shiny source, organised under `www/`. `install.sh` provisions dependencies and seeds demo data so the app starts with something real to explore. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
